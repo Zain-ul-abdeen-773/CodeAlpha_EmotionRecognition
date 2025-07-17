@@ -1,4 +1,3 @@
-# CodeAlpha_EmotionRecognition
 # 🎤 Speech Emotion Recognition Flask App
 
 This web app recognizes human emotions (e.g., Happy, Sad, Angry) from uploaded audio using deep learning. It features a beautiful animated UI, waveform visualization, voice feedback, and supports both `.wav` and `.mp3`.
